@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danium/Documents/GitHub/CE2103/25-09-19/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+stdio.h
+-
+
